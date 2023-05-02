@@ -1,0 +1,175 @@
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        'content-length': '57',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:4100',
+        connection: 'close'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 210
+  },
+  level: 'info',
+  message: 'HTTP POST /login'
+}
+{
+  meta: {
+    req: {
+      url: '/city/8.8.8.8',
+      headers: {
+        'content-length': '73',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:4100',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/city/8.8.8.8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 19
+  },
+  level: 'info',
+  message: 'HTTP GET /city/8.8.8.8'
+}
+{
+  meta: {
+    req: {
+      url: '/register',
+      headers: {
+        'content-length': '69',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:4100',
+        connection: 'close'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/register',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 259
+  },
+  level: 'info',
+  message: 'HTTP POST /register'
+}
+{
+  meta: {
+    req: {
+      url: '/city/8.8.8.8',
+      headers: {
+        'content-length': '73',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:4100',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/city/8.8.8.8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 9
+  },
+  level: 'info',
+  message: 'HTTP GET /city/8.8.8.8'
+}
+{
+  meta: {
+    req: {
+      url: '/login',
+      headers: {
+        'content-length': '69',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:4100',
+        connection: 'close'
+      },
+      method: 'POST',
+      httpVersion: '1.1',
+      originalUrl: '/login',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 191
+  },
+  level: 'info',
+  message: 'HTTP POST /login'
+}
+{
+  meta: {
+    req: {
+      url: '/city/8.8.8.8',
+      headers: {
+        'content-length': '73',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:4100',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/city/8.8.8.8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 45
+  },
+  level: 'info',
+  message: 'HTTP GET /city/8.8.8.8'
+}
+{
+  meta: {
+    req: {
+      url: '/city/8.8.8.8',
+      headers: {
+        'content-length': '73',
+        'accept-encoding': 'gzip, deflate, br',
+        cookie: 'name=express',
+        accept: '*/*',
+        'user-agent': 'Thunder Client (https://www.thunderclient.com)',
+        'content-type': 'application/json',
+        host: 'localhost:4100',
+        connection: 'close'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/city/8.8.8.8',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 45
+  },
+  level: 'info',
+  message: 'HTTP GET /city/8.8.8.8'
+}
